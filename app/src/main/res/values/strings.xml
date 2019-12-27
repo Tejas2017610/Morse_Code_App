@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morse Code</string>
+    <string name="button_text">Convert</string>
+    <string name="error_list">Not allowed: !@#$%^*()_+-=[]{}()|"":&amp;</string>
+</resources>
